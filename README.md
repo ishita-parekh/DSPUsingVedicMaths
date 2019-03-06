@@ -8,8 +8,8 @@
 
 #URDHVA TIRYAKBHYAM SUTRA is used for mathematical computation (There are total 16 Sutras available in Vedic maths for multiplication and addition).
 
-#Image of Multiplication using URDHVA TIRYAKBHYAM SUTRA is uploaded as VedicAlgorithm.
+#Image of Multiplication using URDHVA TIRYAKBHYAM SUTRA is uploaded as VedicAlgorithm.docx.
 
-#Results of the computtion could be found in Results folder.
+#Results of the computation could be found in Results folder.
 
 
